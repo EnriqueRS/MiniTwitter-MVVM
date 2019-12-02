@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniTwitter-MVVM</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Log In</string>
+    <string name="text_create_account">Sing Up</string>
+    <string name="name">Name</string>
+    <string name="sign_up">SignUp</string>
+    <string name="alredy_sign">Already have an account? Sign in</string>
+</resources>
